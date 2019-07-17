@@ -1,0 +1,100 @@
+Name: JZZ		ID: 38465	Days in FC: 3781 days	Last action: 60 minutes ago	Satatus: Okay
+Name: -LSD-		ID: 44646	Days in FC: 3889 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Gincius		ID: 47182	Days in FC: 1188 days	Last action: 60 minutes ago	Satatus: Okay
+Name: CheRis		ID: 69986	Days in FC: 288 days	Last action: 9 minutes ago	Satatus: In hospital for 41 mins ","Hospitalized by <a href=\"profiles.php?XID=1117443\">Toons</a>"]}
+Name: Jerald		ID: 77708	Days in FC: 214 days	Last action: 60 minutes ago	Satatus: Okay
+Name: westas		ID: 136134	Days in FC: 509 days	Last action: 120 minutes ago	Satatus: Okay
+Name: evileboy		ID: 168031	Days in FC: 3953 days	Last action: 120 minutes ago	Satatus: Okay
+Name: WarWind		ID: 174020	Days in FC: 3351 days	Last action: 120 minutes ago	Satatus: Okay
+Name: Arunkiss		ID: 216335	Days in FC: 3787 days	Last action: 180 minutes ago	Satatus: Okay
+Name: N2O4		ID: 255162	Days in FC: 2181 days	Last action: 12 minutes ago	Satatus: Okay
+Name: Enjoysilence	ID: 278905	Days in FC: 817 days	Last action: 1440 minutes ago	Satatus: Okay
+Name: IronMan718	ID: 345251	Days in FC: 611 days	Last action: 180 minutes ago	Satatus: Okay
+Name: PonasPuikis	ID: 368595	Days in FC: 2266 days	Last action: 480 minutes ago	Satatus: Okay
+Name: Sharpas		ID: 371081	Days in FC: 368 days	Last action: 30 minutes ago	Satatus: Okay
+Name: Rytis		ID: 388876	Days in FC: 3092 days	Last action: 1 minete ago	Satatus: Okay
+Name: Enas		ID: 437935	Days in FC: 462 days	Last action: 60 minutes ago	Satatus: Okay
+Name: phLOx		ID: 451848	Days in FC: 707 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Persian_Warrior	ID: 465639	Days in FC: 329 days	Last action: 480 minutes ago	Satatus: In Switzerland
+Name: Dembel		ID: 527213	Days in FC: 147 days	Last action: 48 minutes ago	Satatus: Traveling to South Africa
+Name: SgtPepper-	ID: 554306	Days in FC: 761 days	Last action: 120 minutes ago	Satatus: Okay
+Name: BiznieriuX	ID: 619831	Days in FC: 443 days	Last action: 60 minutes ago	Satatus: Okay
+Name: UR04Me		ID: 643861	Days in FC: 3300 days	Last action: 480 minutes ago	Satatus: Okay
+Name: veee		ID: 787089	Days in FC: 120 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Loore		ID: 860631	Days in FC: 257 days	Last action: 60 minutes ago	Satatus: Returning to Torn from United Kingdom
+Name: JustJ		ID: 964993	Days in FC: 307 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Old_Lady		ID: 988295	Days in FC: 214 days	Last action: 60 minutes ago	Satatus: Okay
+Name: fra		ID: 1001844	Days in FC: 946 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Djsalamon		ID: 1007708	Days in FC: 3332 days	Last action: 540 minutes ago	Satatus: Okay
+Name: Neuroma		ID: 1029705	Days in FC: 3571 days	Last action: 240 minutes ago	Satatus: Okay
+Name: Rohnn		ID: 1137061	Days in FC: 251 days	Last action: 24 minutes ago	Satatus: Returning to Torn from Canada
+Name: Br0		ID: 1297183	Days in FC: 3077 days	Last action: 540 minutes ago	Satatus: Okay
+Name: stad		ID: 1341013	Days in FC: 3514 days	Last action: 44 minutes ago	Satatus: Okay
+Name: Jacques_Mesrine	ID: 1344647	Days in FC: 1003 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Aficionado	ID: 1520030	Days in FC: 3056 days	Last action: 420 minutes ago	Satatus: Okay
+Name: MO_FARAH		ID: 1557769	Days in FC: 112 days	Last action: 1440 minutes ago	Satatus: Okay
+Name: Slavyan		ID: 1595497	Days in FC: 280 days	Last action: 7 minutes ago	Satatus: Returning to Torn from Argentina
+Name: Jenzz		ID: 1596134	Days in FC: 258 days	Last action: 120 minutes ago	Satatus: Okay
+Name: S_T_I_N_G		ID: 1600444	Days in FC: 2502 days	Last action: 8 minutes ago	Satatus: Returning to Torn from South Africa
+Name: Marijus		ID: 1618905	Days in FC: 1560 days	Last action: 21 minutes ago	Satatus: Okay
+Name: JohnSnow		ID: 1672553	Days in FC: 657 days	Last action: 180 minutes ago	Satatus: Okay
+Name: Desert		ID: 1673083	Days in FC: 2471 days	Last action: 16 minutes ago	Satatus: Okay
+Name: and08		ID: 1688185	Days in FC: 471 days	Last action: 60 minutes ago	Satatus: Okay
+Name: C20H25N3O		ID: 1773457	Days in FC: 490 days	Last action: 120 minutes ago	Satatus: In a UK hospital for 14 mins ","Mugged by someone"]}
+Name: Alice_Abernathy	ID: 1803631	Days in FC: 111 days	Last action: 60 minutes ago	Satatus: Returning to Torn from Switzerland
+Name: nenulaiferis	ID: 1819082	Days in FC: 2005 days	Last action: 1440 minutes ago	Satatus: Okay
+Name: Hijikata		ID: 1836713	Days in FC: 767 days	Last action: 2880 minutes ago	Satatus: Okay
+Name: Oligarch		ID: 1847345	Days in FC: 257 days	Last action: 50 minutes ago	Satatus: Traveling to China
+Name: VitaGreta		ID: 1867016	Days in FC: 72 days	Last action: 120 minutes ago	Satatus: Okay
+Name: Deadpool		ID: 1879348	Days in FC: 725 days	Last action: 120 minutes ago	Satatus: Okay
+Name: Titaszzz		ID: 1909094	Days in FC: 72 days	Last action: 60 minutes ago	Satatus: Okay
+Name: afduke		ID: 1957387	Days in FC: 225 days	Last action: 48 minutes ago	Satatus: Traveling to South Africa
+Name: olga		ID: 1961866	Days in FC: 567 days	Last action: 60 minutes ago	Satatus: Returning to Torn from South Africa
+Name: Adrenalinas	ID: 1974447	Days in FC: 1264 days	Last action: 6 minutes ago	Satatus: Okay
+Name: Kyro		ID: 2007441	Days in FC: 74 days	Last action: 1440 minutes ago	Satatus: Okay
+Name: Ledoksnis		ID: 2008477	Days in FC: 1020 days	Last action: 180 minutes ago	Satatus: Okay
+Name: bigbeev		ID: 2011784	Days in FC: 768 days	Last action: 14 minutes ago	Satatus: Okay
+Name: Memphis2Chicago	ID: 2013882	Days in FC: 248 days	Last action: 60 minutes ago	Satatus: Traveling to Argentina
+Name: d0ng		ID: 2018125	Days in FC: 211 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Vilmis		ID: 2044514	Days in FC: 879 days	Last action: 60 minutes ago	Satatus: Returning to Torn from South Africa
+Name: AZa_cadabra	ID: 2057012	Days in FC: 118 days	Last action: 55 minutes ago	Satatus: Okay
+Name: elie350		ID: 2065964	Days in FC: 768 days	Last action: 120 minutes ago	Satatus: Okay
+Name: dnar		ID: 2071722	Days in FC: 737 days	Last action: 60 minutes ago	Satatus: Traveling to Switzerland
+Name: Sky-Raisin	ID: 2086368	Days in FC: 79 days	Last action: 41 minutes ago	Satatus: Returning to Torn from Argentina
+Name: Great_dane_mom	ID: 2086373	Days in FC: 23 days	Last action: 52 minutes ago	Satatus: Okay
+Name: fredpinto		ID: 2115289	Days in FC: 350 days	Last action: 1 minete ago	Satatus: Okay
+Name: demondriven	ID: 2118446	Days in FC: 345 days	Last action: 60 minutes ago	Satatus: Okay
+Name: menesvural	ID: 2123662	Days in FC: 169 days	Last action: 360 minutes ago	Satatus: Okay
+Name: zheblade		ID: 2128128	Days in FC: 349 days	Last action: 58 minutes ago	Satatus: Okay
+Name: Jeffdd		ID: 2137520	Days in FC: 252 days	Last action: 16 minutes ago	Satatus: Okay
+Name: SYTHX		ID: 2142539	Days in FC: 252 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Andriuxa		ID: 2143140	Days in FC: 353 days	Last action: 0 minutes ago	Satatus: Okay
+Name: Bifrost		ID: 2143547	Days in FC: 250 days	Last action: 120 minutes ago	Satatus: Traveling to China
+Name: BlueLotus		ID: 2146056	Days in FC: 363 days	Last action: 60 minutes ago	Satatus: Returning to Torn from United Kingdom
+Name: TheLadyThief	ID: 2150191	Days in FC: 214 days	Last action: 540 minutes ago	Satatus: Okay
+Name: Lalop		ID: 2150517	Days in FC: 360 days	Last action: 420 minutes ago	Satatus: Okay
+Name: Vampkahn		ID: 2150770	Days in FC: 135 days	Last action: 46080 minutes ago	Satatus: Okay
+Name: hannes3510	ID: 2150804	Days in FC: 246 days	Last action: 0 minutes ago	Satatus: Returning to Torn from Canada
+Name: cookc		ID: 2152172	Days in FC: 252 days	Last action: 0 minutes ago	Satatus: Okay
+Name: VikingBlood	ID: 2152690	Days in FC: 252 days	Last action: 1 minete ago	Satatus: Okay
+Name: Evalise		ID: 2153284	Days in FC: 250 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Ragnoraq42	ID: 2153741	Days in FC: 252 days	Last action: 60 minutes ago	Satatus: Traveling to South Africa
+Name: crdrews		ID: 2153877	Days in FC: 209 days	Last action: 60 minutes ago	Satatus: Returning to Torn from United Kingdom
+Name: Cynt		ID: 2154748	Days in FC: 251 days	Last action: 11 minutes ago	Satatus: Okay
+Name: Zacc90		ID: 2155353	Days in FC: 252 days	Last action: 0 minutes ago	Satatus: Okay
+Name: PhilCollins	ID: 2157235	Days in FC: 217 days	Last action: 52 minutes ago	Satatus: Traveling to China
+Name: lazykier		ID: 2164508	Days in FC: 301 days	Last action: 14 minutes ago	Satatus: In United Kingdom
+Name: kingsen55		ID: 2164993	Days in FC: 54 days	Last action: 240 minutes ago	Satatus: Okay
+Name: TangoCash		ID: 2166235	Days in FC: 252 days	Last action: 300 minutes ago	Satatus: Okay
+Name: BobbySixkiller	ID: 2167957	Days in FC: 249 days	Last action: 37440 minutes ago	Satatus: Okay
+Name: Poochskunk	ID: 2170094	Days in FC: 110 days	Last action: 60 minutes ago	Satatus: Okay
+Name: Mu9874		ID: 2193137	Days in FC: 99 days	Last action: 32 minutes ago	Satatus: Traveling to South Africa
+Name: Dziunglius	ID: 2199880	Days in FC: 182 days	Last action: 3 minutes ago	Satatus: Okay
+Name: Drunk-in-Battle	ID: 2202630	Days in FC: 58 days	Last action: 13 minutes ago	Satatus: Returning to Torn from South Africa
+Name: BiG_Allen		ID: 2210824	Days in FC: 158 days	Last action: 60 minutes ago	Satatus: Okay
+Name: holliday50	ID: 2213753	Days in FC: 72 days	Last action: 780 minutes ago	Satatus: Okay
+Name: Drakaz		ID: 2228732	Days in FC: 167 days	Last action: 300 minutes ago	Satatus: Okay
+Name: _Pam_		ID: 2235735	Days in FC: 163 days	Last action: 39 minutes ago	Satatus: Returning to Torn from UAE
+Name: Harrie_Bo		ID: 2272266	Days in FC: 44 days	Last action: 54 minutes ago	Satatus: Traveling to China
+Name: Strangeh21	ID: 2280521	Days in FC: 66 days	Last action: 60 minutes ago	Satatus: Okay
+Name: WikiLeaks97	ID: 2284755	Days in FC: 60 days	Last action: 18 minutes ago	Satatus: Traveling to South Africa
